@@ -1,6 +1,6 @@
 # Numeric Operators
 # Perl provides a wide range of numeric operators for performing arithmetic
-# operations on numbers. Here are some examples:
+# operations on numbers.
 
 my $a = 10;
 my $b = 8;
