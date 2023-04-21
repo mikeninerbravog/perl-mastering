@@ -1,7 +1,5 @@
 # perl
 
-"Once Twice Three Times."
-
 **This is Perl enough to be dangerous.**
 
 1-Scalar_Data/
