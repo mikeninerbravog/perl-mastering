@@ -7,5 +7,3 @@ my $prod = $a * $b;    # multiplication
 my $quot = $a / $b;    # division
 my $mod = $a % $b;     # modulus
 my $exp = $a ** $b;    # exponentiation
-
-print $diff."\n";
