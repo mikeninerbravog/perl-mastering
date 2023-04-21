@@ -1,4 +1,4 @@
-=head
+=head1 NOTES
 ##
 Binary Assignment Operators
 Binary assignment operators in Perl are used to modify the value of a scalar variable by performing an operation on the current value and a new value.

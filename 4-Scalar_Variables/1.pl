@@ -1,7 +1,7 @@
-=head1 NOTE
+=head1 NOTES
 ##
 Scalar Variables
-Scalar variables in Perl are used to hold single values, such as numbers or strings. 
+Scalar variables in Perl are used to hold single values, such as numbers or strings.
 
 ##
 =cut

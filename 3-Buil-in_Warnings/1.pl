@@ -9,7 +9,7 @@ my $num2 = "hello";
 my $sum = $num1 + $num2;
 print $sum;
 
-=head1 EXPLAIN
+=head1 NOTES
 ##############
 In this example, we first use the strict pragma to enforce strict variable usage, and then use the warnings pragma to enable warnings for potential issues in our code.
 
