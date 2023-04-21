@@ -23,3 +23,20 @@
 * 3.pl: Double-Quoted String Literals
 * 4.pl: String Operators
 * 5.pl: Automatic Conversion Between Numbers and Strings
+
+===
+
+3-Buil-in_Warnings/
+
+* 1.pl: Perl’s Built-in Warnings
+
+===
+
+4 - Scalar_Variables/
+
+* 1.pl: Scalar Variables
+* 2.pl: Choosing Good Variable Names
+* 3.pl: Scalar Assignment
+* 4.pl: Binary Assignment Operators
+
+===
